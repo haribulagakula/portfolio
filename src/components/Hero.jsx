@@ -1,5 +1,5 @@
 import { HERO_CONTENT } from "../constants"
-import profilePic from "../assets/kevinRushProfile.jpg"
+import profilePic from "../assets/abhinavKompellaProfile.png"
 import { motion } from "framer-motion";
 
 const container = (delay) => ({
@@ -38,7 +38,8 @@ const Hero = () => {
                     <motion.img
                         initial={{x: 100, opacity: 0}}
                         animate={{x: 0, opacity: 1}}
-                        transition={{duration: 1, delay: 1.2}} 
+                        transition={{duration: 1, delay: 1.2}}
+                        className="rounded-lg max-w-xl" 
                         src={profilePic} alt="profilePic" />
                 </div>
             </div>

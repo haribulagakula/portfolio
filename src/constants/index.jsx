@@ -1,66 +1,219 @@
 import project1 from "../assets/projects/project-1.png";
 
-export const HERO_CONTENT = `I am a passionate full stack developer with a knack for crafting robust and scalable web and mobile applications. With 3 years of hands-on experience, I have honed my skills in front-end technologies like React, Angular, Swift and Flutter, as well as back-end technologies like Java Spring, Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
+export const HERO_CONTENT = `I have 8.8+ years of experience in the IT industry, specializing in developing enterprise applications using IBM FileNet suite of products, Java/J2EE specifications, and deploying them on industry-standard application servers like WebSphere. My extensive experience includes creating solutions for content and workflow management using IBM FileNet products such as Business Process Manager, Content Manager, IBM Content Navigator, and IBM Case Manager v5.2. I have been heavily involved in the creation of document classes, custom objects, properties, events, and subscriptions.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 1 years of professional experience, I have worked with a variety of technologies, including Java Spring, Angular.js, Node.js, MySQL, and MongoDB. I also have professional experience in cloud services like AWS (Cognito, RDBMS, Lambda), Azure (Functions, CosmosDB, Terraform, Container Registry) and Firebase. My journey in web and app development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I love to travel and I enjoy a very active lifestyle which involves weight lifting, badminton and swimming. I am always exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am proficient in developing plug-ins in IBM Content Navigator (ICN) and possess strong hands-on experience in EDS and necessary customizations in ICN. I also have a good working knowledge of frameworks like DOJO, and am familiar with build tools such as ANT. Moreover, I have experience in developing widgets using the DOJO framework, and have a solid understanding of FEM, ACCE, and Case Builder. In addition to my technical skills, I am experienced in training others on ICN and IBM BPM, as well as in working with SOAP web services. I am well-versed in software development processes, having been involved in all phases of the software development lifecycle. With strong interpersonal and communication skills, I have successfully interacted with clients to produce technical solution architectures. I am highly skilled in ECM and have a proven ability to persevere towards challenging goals, leveraging my quick learning ability and self-motivation to drive successful outcomes.`;
 
 export const EXPERIENCES = [
   {
-    year: "May 2024 - Present",
-    role: "Software Enginnering Intern",
-    company: "Pearson",
+    year: "May 2020 - Present",
+    role: "IBM FileNet & Case manager Developer",
+    company: "IBM",
     description: [
       <>
-        Developed a brand-new service written in <strong className="font-black">Java Spring Boot</strong> that supports internal operations, helping end-users through a frontend user interface in <strong className="font-black">Angular</strong> to improve user experience.
+        Responsibilities, Involved in understanding the requirements.
       </>,
       <>
-        Followed the team&apos;s best practices and <strong className="font-black">SDLC</strong> to deliver code on a bi-weekly basis through pro-active code reviews, <strong className="font-black">Spring Boot unit tests</strong>, and <strong className="font-black">Jasmine unit tests</strong>.
+        Trained and worked in agile methodology.
       </>,
       <>
-        Collaborated across 3 platform teams in <strong className="font-black">Agile Kanban</strong> methodologies to support the intake, refinement, execution and quality assurance of the code being deployed.
+        Involved during Functional Design understanding exercise.
       </>,
       <>
-        Updated content to increase communication to the end-user working with updating the <strong className="font-black">Xliff</strong> across the 12 localized languages for the end-user.
+        Developed custom widgets for Search, Custom Property layout, Case View customization modules and all response validation in work view.
+      </>,
+      <>
+        Involved in Development inBasket filters used across all the solutions in the environment.
+      </>,
+      <>
+        Designed the Workflows and developed the components.
+      </>,
+      <>
+        Reports generation from database based on search results.
+      </>,
+      <>
+        Involved in application deployment from one environment to another environment
+      </>,
+      <>
+        Involved in the migration of solution from dev,sit,uat
+      </>,
+      <>
+        Support SIT phases and coordinated with QA team on bug fixing
       </>
     ],
-    technologies: ["Java", "Spring boot", "Angular", "JavaScript", "MySQL", "Azure", "VersionOne"],
+    technologies: ["IBM Content Navigator 2.0.3", "Java 1.6", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "MS SQL Server 2008 R2"],
   },
   {
-    year: "Jan 2024 - Present",
-    role: "Graduate Research Assistant",
-    company: "Georgia State University",
+    year: "May 2019 - April 2020",
+    role: "FileNet & Case Manager Developer",
+    company: "HCL Technologies",
     description: [
       <>
-        Spearheaded the development of an <strong className="font-black">iOS mobile development</strong> focused on addressing the information and service needs of intimate partner violence (IPV) survivors within Southeast Asian communities in Metropolitan Atlanta.
+        Oversea-Chinese Banking Corporation, Limited, abbreviated as OCBC Bank, is a multinational banking and financial services corporation headquartered in OCBC Centre, Singapore.
       </>,
       <>
-        Led <strong className="font-black">Android-to-iOS</strong> code migration using <strong className="font-black">SwiftUI</strong>, ensuring seamless adaptation and platform consistency.
+        The Purpose of this project is to provide automation using the content and case management solution to meet the BPM Requirements of financial services. The BPM requirements include CMS(Complaint Management system).
       </>,
       <>
-        Hosted backend in <strong className="font-black">Azure</strong> and performed <strong className="font-black">REST API calls</strong> to collect user data and mobile application data.
+        Involved in understanding the requirements.
+      </>,
+      <>
+        Trained and worked in agile methodology.
+      </>,
+      <>
+        Involved during Functional Design understanding exercise.
+      </>,
+      <>
+        Developed custom widgets for Search, Custom Property layout, Case View customization modules and all response validation in work view.
+      </>,
+      <>
+        Involved in Development inBasket filters used across all the solutions in the environment.
+      </>,
+      <>
+        Designed the Workflows and developed the components.
+      </>,
+      <>
+        Reports generation from database based on search results.
+      </>,
+      <>
+        Involved in application deployment from one environment to another environment
+      </>,
+      <>
+        Involved in the migration of solution from dev,sit,uat
+      </>,
+      <>
+        Support SIT phases and coordinated with QA team on bug fixing
       </>
     ],
-    technologies: ["SwiftUI", "UI/UX", "JavaScript", "Azure Functions", "Azure CosmosDB"],
+    technologies: ["IBM Content Navigator 2.0.3", "Java 1.6", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "MS SQL Server 2008 R2"],
   },
   {
-    year: "June 2023 - August 2024",
-    role: "Software Engineering Intern",
-    company: "Swivl",
+    year: "June 2018 - April 2019",
+    role: "FileNet & Case Manager Developer",
+    company: "IBM",
     description: [
       <>
-        Leveraged AWS resources, including <strong className="font-black">AWS Cognito</strong>, to architect and deploy a robust authentication framework, achieving a 21% reduction in login-related issues.
+        Westpac came up with the new requirement to find the disputes in Credit card disputes with case manager. IBM case manager solution to raise the credit card disputes. The Purpose of this project is to provide automation using the content and case management solution to meet the BPM Requirements of Credit card services. The BPM requirements include CCD(Credit card disputes),Generic notification which is used across all upcoming solutions, SPR(Sales practice remediation)
       </>,
       <>
-      Orchestrated the secure management of <strong className="font-black">AWS Relational Database Service (RDBMS)</strong>, implementing role-based access controls and boosting data integrity resulting in a 33% reduction in unauthorized data access incidents.
+        Involved in understanding the requirements.
       </>,
       <>
-        Pioneered serverless <strong className="font-black">Lambda functions</strong>, optimizing authentication and authorization processes reducing latency by 15%.
+        Involved during Functional Design understanding exercise.
       </>,
       <>
-        Successfully applied the <strong className="font-black">Model-View-Controller (MVC)</strong> design pattern to enhance the structure and maintainability of the <strong className="font-black">SaaS architecture</strong>.
+        Developed custom widgets for Search, Custom Property layout, Case View ,script adapters customization modules and all response validation in work view.
+      </>,
+      <>
+        Involved in Development of Manual Notification Management Widget.
+      </>,
+      <>
+        Designed the Workflows and developed the components.
+      </>,
+      <>
+        Designed Workflows for Generic notifications
+      </>,
+      <>
+        Reports generation from database based on search results.
+      </>,
+      <>
+        Involved in application deployment from one environment to another environment
+      </>,
+      <>
+        Support SIT phase and coordinated with QA team on bug fixing.
       </>
     ],
-    technologies: ["Node.js", "JavaScript", "AWS Cognito", "AWS Lambda", "AWS RDBMS", "Jira"],
+    technologies: ["IBM Content Navigator 2.0.3", "Java 1.6", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "MS SQL Server 2008 R2"],
+  },
+  {
+    year: "February 2017 - May 2018",
+    role: "Senior Data Specialist",
+    company: "LIDPro",
+    description: [
+      <>
+        The objective of this project is to implement of Customer Information Warehouse using ETL tool and Teradata database. To load marketing information files various regions (AP, JP, EM, AM, LA, CN) into Teradata database and Extract the data to downstream with the currency conversion and make online reports available to users
+      </>,
+      <>
+        Involved in understanding the requirements.
+      </>,
+      <>
+        Involved in CE configurations and policy creations.
+      </>,
+      <>
+        Involved in Document classes design 
+      </>,
+      <>
+        Involved in CE security implementation
+      </>,
+      <>
+        Developed the Search templates.
+      </>,
+      <>
+        Developed customized Document adding functionality.
+      </>,
+      <>
+        Developed Audit related functionalities.
+      </>,
+      <>
+        Involved in Bug fixing and testing phase.
+      </>,
+      <>
+        Involved in UAT deployments and support.
+      </>
+    ],
+    technologies: ["IBM Content Navigator 2.0.3", "Java 1.6", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "MS SQL Server 2008 R2"],
+  },
+  {
+    year: "November 2015 - Jan 2017",
+    role: "IBM Content navigator Developer",
+    company: "Kuvempu university eVerification portal ",
+    description: [
+      <>
+        The application mainly used for the background verification of the students. Usually various     organization will process the background check before releasing a offer to resource. In this process a hard copy from organization with recourse data willgo to the university then university will check the records and if they find genuine/fraud. The university will send the Acknowledgement
+      </>,
+      <>
+        Part of development of the product
+      </>,
+      <>
+        Analysis, design and development of customizations requested by customers.
+      </>,
+      <>
+        Involved in application deployment from one environment to another environment
+      </>,
+      <>
+        Support SIT, UAT phases and coordinated with QA team on bug fixing
+      </>,
+      <>
+        Provided support during solution go-live.
+      </>
+    ],
+    technologies: ["IBM Content Navigator", "Workplace XT", "CE API", "PE API", "IBM BPM"],
+  },
+  {
+    year: "January 2015 - September 2016",
+    role: "Filenet Developer",
+    company: "MFL &PFRL (BPM-IBM eForms and Workflows Solution)",
+    description: [
+      <>
+        BPM Solution by using IBM eForms and Workflows is designed to provide employee, store and ware house to claim the amount from Aditya Birla for different purposes like travel, rent for store etc with IBM eForms to capture the data and workflow  for the different stage of approvals.
+      </>,
+      <>
+        Responsibilities Part of development of the product.
+      </>,
+      <>
+        Involved in designing workflows using FileNet Process Designer.
+      </>,
+      <>
+        Implemented best practices of pattern development by making the pattern shared across multiple similar environment.
+      </>,
+      <>
+        Responsible for Procedural documentation.
+      </>,
+      <>
+        Ensure products are delivered within timelines.
+      </>
+    ],
+    technologies: ["IBM FileNet P8 - Content Manager", "Business Process Manager", "IBM Case Manager", "IBM Content Navigator", "Workplace XT", "CE API", "PE API", "IBM BPM"],
   },
 ];
 
@@ -87,6 +240,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Atlanta, GA",
-  email: "kompellabhinav@gmail.com",
+  address: "Alpharetta, GA",
+  email: "haribulagakula@gmail.com",
 };

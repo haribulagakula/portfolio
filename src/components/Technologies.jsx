@@ -7,7 +7,7 @@ const data = [
   },
   {
     category: 'Programming & Scripting',
-    items: ['DOJO', 'JavaScript'],
+    items: ['DOJO', 'JavaScript', 'React JS'],
   },
   {
     category: 'Scientific Packages',

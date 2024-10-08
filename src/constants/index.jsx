@@ -263,5 +263,6 @@ export const PROJECTS = [
 
 export const CONTACT = {
   address: "Alpharetta, GA",
+  phone : "+1-4049602496",
   email: "haribulagakula@gmail.com",
 };

@@ -42,7 +42,7 @@ const Hero = () => {
                 <div className="flex justify-center">
                     <motion.img
                         initial={{x: 100, opacity: 0}}
-                        animate={{x: 10, opacity: 1}}
+                        animate={{x: 30, opacity: 1}}
                         transition={{duration: 1, delay: 1.2}}
                         className="rounded-lg max-w-xl" 
                         src={profilePic} alt="profilePic" />

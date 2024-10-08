@@ -10,7 +10,7 @@ export const EXPERIENCES = [
   {
     year: "Jan 2024 - Till Now",
     role: "Sr.Associate -Project(ECM domain)",
-    company: "Cognizant Technologies US Corp",
+    company: "Cognizant Technologies US Corp - OPTUM/UHG",
     Client : "OPTUM/UHG",
     description: [
       <>
@@ -49,7 +49,7 @@ export const EXPERIENCES = [
   {
     year: "May 2020 - December 2023",
     role: "IBM FileNet & Case manager Developer",
-    company: "IBM Corporation",
+    company: "IBM Corporation-Anthem/Elevance Health",
     client : "Anthem/Elevance Health",
     description: [
       <>
@@ -103,7 +103,7 @@ export const EXPERIENCES = [
   {
     year: "May 2019 - April 2020",
     role: "FileNet & Case Manager Developer",
-    company: "HCL Technologies",
+    company: "HCL Technologies-OCBC Bank Singapore",
     client : "OCBC Bank Singapore",
     description: [
       <>
@@ -148,7 +148,7 @@ export const EXPERIENCES = [
   {
     year: "June 2018 - April 2019",
     role: "FileNet & Case Manager Developer",
-    company: "MITS",
+    company: "MITS-IBM/Westpac Bank Australia",
     Client : "IBM/Westpac Bank Australia",
     description: [
       <>
@@ -187,7 +187,7 @@ export const EXPERIENCES = [
   {
     year: "October 2017 - May 2018",
     role: "IBM Content navigator Developer",
-    company: "Kuvempu university eVerification portal ",
+    company: "MITS -Kuvempu university eVerification portal ",
     description: [
       <>
         The application mainly used for the background verification of the students. Usually various     organization will process the background check before releasing a offer to resource. In this process a hard copy from organization with recourse data willgo to the university then university will check the records and if they find genuine/fraud. The university will send the Acknowledgement
@@ -213,7 +213,7 @@ export const EXPERIENCES = [
   {
     year: "January 2015 - September 2017",
     role: "Filenet Developer",
-    company: "MITS",
+    company: "MITS-MFL &PFRL (BPM-IBM eForms and Workflows Solution)",
     client :"MFL &PFRL (BPM-IBM eForms and Workflows Solution)",
     description: [
       <>

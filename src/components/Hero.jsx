@@ -20,7 +20,7 @@ const Hero = () => {
                         variants={container(-1)}
                         initial="hidden"
                         animate="visible" 
-                        className="pb-8 text-6xl font-thin tracking-tight lg:mt-16 lg:text-8xl">Srihari Bulagakula</motion.h1>
+                        className="bg-gradient-to-r py-2 from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">Srihari Bulagakula</motion.h1>
                     <motion.span
                         variants={container(0.5)}
                         initial="hidden"

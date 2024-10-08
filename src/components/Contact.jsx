@@ -15,6 +15,11 @@ const Contact = () => {
                 initial={{ opacity: 0, x: -100 }}
                 transition={{ duration: 1 }}
                 className="my-4">{CONTACT.address}</motion.p>
+                <motion.b 
+                whileInView={{ opacity: 1, x: 0 }}
+                initial={{ opacity: 0, x: -100 }}
+                transition={{ duration: 1 }}
+                className="my-4">{CONTACT.phone}</motion.b>
             <motion.a 
                 whileInView={{ opacity: 1, x: 0 }}
                 initial={{ opacity: 0, x: 100 }}

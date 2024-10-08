@@ -26,7 +26,7 @@ const Hero = () => {
                         variants={container(0.5)}
                         initial="hidden"
                         animate="visible"
-                        className="bg-gradient-to-r py-2 from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">IBM Filenet</motion.span>
+                        className="bg-gradient-to-r py-2 from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent">IBM Filenet Suit Of Products & ICN & IBM Case Manager</motion.span>
                         <motion.span
                         variants={container(0.5)}
                         initial="hidden"

@@ -98,7 +98,7 @@ export const EXPERIENCES = [
         Support SIT phases and coordinated with QA team on bug fixing
       </>
     ],
-    technologies: ["IBM Case Manager 5.5", "IBM Content Navigator 2.0.3", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "DB2"],
+    technologies: ["IBM BAW 20.X","IBM Case Manager 5.5", "IBM Content Navigator 2.0.3", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "DB2"],
   },
   {
     year: "May 2019 - April 2020",

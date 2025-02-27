@@ -98,7 +98,7 @@ export const EXPERIENCES = [
         Support SIT phases and coordinated with QA team on bug fixing
       </>
     ],
-    technologies: ["IBM BAW 20.X","IBM Case Manager 5.5", "IBM Content Navigator 2.0.3", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "DB2"],
+    technologies: ["IBM BAW 20.X","IBM Case Manager 5.5", "IBM Content Navigator 2.0.3", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "DB2","CMOD"],
   },
   {
     year: "May 2019 - April 2020",
@@ -143,7 +143,7 @@ export const EXPERIENCES = [
         Support SIT phases and coordinated with QA team on bug fixing
       </>
     ],
-    technologies: ["IBM Case manager 5.2", "IBM Content Navigator 2.0.3", "Java 1.6", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "MS SQL Server 2016"],
+    technologies: ["IBM Case manager 5.2", "IBM Content Navigator 2.0.3", "Java 1.6", "JDBC", "Log4j", "IBM FileNet Content Engine v5.1", "Dojo 1.8", "IBM Web Sphere Application Server 7.0", "MS SQL Server 2016","CMOD"],
   },
   {
     year: "June 2018 - April 2019",
@@ -208,7 +208,7 @@ export const EXPERIENCES = [
         Provided support during solution go-live.
       </>
     ],
-    technologies: ["IBM Content Navigator 2.0.3", "Workplace XT", "CE API", "PE API", "IBM BPM"],
+    technologies: ["IBM Content Navigator 2.0.3", "Workplace XT", "CE API", "PE API", "IBM BPM","CMOD"],
   },
   {
     year: "January 2015 - September 2017",

@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 const data = [
   {
     category: 'ECM Technologies',
-    items: ['IBM Case Manager', 'IBM Content Navigator', 'IBM Filenet', 'IBM BAW'],
+    items: ['IBM Case Manager', 'IBM Content Navigator', 'IBM Filenet', 'IBM BAW',CMOD],
   },
   {
     category: 'Programming & Scripting',

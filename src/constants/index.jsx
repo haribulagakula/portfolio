@@ -16,7 +16,7 @@ export const EXPERIENCES = [
         Currently Working as IBM Content navigator and IBM CMOD developer.
       </> 
     ],
-    Technologies: ["IBM Mainframes, IBM Content Navigator 3.0.12 IFix 17", "Java 1.8", "JDBC", "Log4j", "IBM CMOD", "Dojo 1.10", "IBM Web Sphere Application Server 9.x", "MS SQL Server 2019"],
+    Technologies: ["IBM Mainframes", "IBM Content Navigator 3.0.12 IFix 17", "Java 1.8", "JDBC", "Log4j", "IBM CMOD", "Dojo 1.10", "IBM Web Sphere Application Server 9.x", "IBM DB2"],
   },
   {
     year: "Jan 2024 - May 2025",

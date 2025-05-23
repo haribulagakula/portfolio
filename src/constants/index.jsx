@@ -8,7 +8,13 @@ export const ABOUT_TEXT =`I am proficient in developing plug-ins in IBM Content 
 
 export const EXPERIENCES = [
   {
-    year: "Jan 2024 - Till Now",
+    year: "May 2025 - Till Now",
+    role: "Software Engineer-II",
+    company: "TRUIST BANK",
+    
+  },
+  {
+    year: "Jan 2024 - May 2025",
     role: "Sr.Associate -Project(ECM domain)",
     company: "Cognizant Technologies US Corp - OPTUM/UHG",
     Client : "OPTUM/UHG",

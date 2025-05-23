@@ -13,10 +13,10 @@ export const EXPERIENCES = [
     company: "TRUIST BANK",
     description: [
       <>
-        Responsibilities, Involved in understanding the requirement.
+        Currently working as a software engineer-II in truistbank.
       </>
     ],
-    technologies: ["IBM CMOD, IBM Content Navigator 3.0.11 IFix 17", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.5", "Dojo 1.10", "IBM Web Sphere Application Server 9.x", "IBM DB2"],
+    technologies: ["IBM CMOD", "IBM Content Navigator 3.0.11 IFix 17", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.5", "Dojo 1.10", "IBM Web Sphere Application Server 9.x", "IBM DB2"],
   },
   {
     year: "Jan 2024 - May 2025",
@@ -55,7 +55,7 @@ export const EXPERIENCES = [
         Support SIT phases and coordinated with QA team on bug fixing
       </>
     ],
-    technologies: ["Image Services 4.2 IFix 17, IBM Content Navigator 3.0.11 IFix 17", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.5", "Dojo 1.10", "IBM Web Sphere Application Server 9.x", "MS SQL Server 2019"],
+    technologies: ["Image Services 4.2 IFix 17", "IBM Content Navigator 3.0.11 IFix 17", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.5", "Dojo 1.10", "IBM Web Sphere Application Server 9.x", "MS SQL Server 2019"],
   },
   {
     year: "May 2020 - December 2023",

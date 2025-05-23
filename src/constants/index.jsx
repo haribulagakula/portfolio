@@ -7,12 +7,7 @@ has equipped me with the skills and knowledge to lead and deliver complex projec
 export const ABOUT_TEXT =`I am proficient in developing plug-ins in IBM Content Navigator (ICN) and possess strong hands-on experience in EDS and necessary customizations in ICN. I also have a good working knowledge of frameworks like DOJO, and am familiar with build tools such as ANT. I have experience in developing widgets using the DOJO framework, and have a solid understanding of FEM, ACCE, and Case Builder. In addition to my technical skills, I am experienced in training others on FileNet, ICN, ICM and IBM BAW, as well as in working with SOAP web services. I am well-versed in software development processes, having been involved in all phases of the software development lifecycle. With strong interpersonal and communication skills, I have successfully interacted with clients to produce technical solution architectures. I am highly skilled in ECM and have a proven ability to persevere towards challenging goals, leveraging my quick learning ability and self-motivation to drive successful outcomes.`;
 
 export const EXPERIENCES = [
-  {
-    year: "May 2025 - Till Now",
-    role: "Software Engineer-II",
-    company: "TRUIST BANK",
-    
-  },
+  
   {
     year: "Jan 2024 - May 2025",
     role: "Sr.Associate -Project(ECM domain)",

@@ -8,13 +8,7 @@ export const ABOUT_TEXT =`I am proficient in developing plug-ins in IBM Content 
 
 export const EXPERIENCES = [
   {
-  year: "Jan 2024 - May 2025",
-    role: "Sr.Associate -Project(ECM domain)",
-    company: "Cognizant Technologies US Corp - OPTUM/UHG",
-    Client : "OPTUM/UHG",
-  },
-  {
-    year: "Jan 2024 - May 2025",
+    year: "Jan 2024 - Till Now",
     role: "Sr.Associate -Project(ECM domain)",
     company: "Cognizant Technologies US Corp - OPTUM/UHG",
     Client : "OPTUM/UHG",
@@ -50,7 +44,7 @@ export const EXPERIENCES = [
         Support SIT phases and coordinated with QA team on bug fixing
       </>
     ],
-    Technologies: ["Image Services 4.2 IFix 17", "IBM Content Navigator 3.0.11 IFix 17", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.5", "Dojo 1.10", "IBM Web Sphere Application Server 9.x", "MS SQL Server 2019"],
+    technologies: ["Image Services 4.2 IFix 17, IBM Content Navigator 3.0.11 IFix 17", "Java 1.8", "JDBC", "Log4j", "IBM FileNet Content Engine v5.5", "Dojo 1.10", "IBM Web Sphere Application Server 9.x", "MS SQL Server 2019"],
   },
   {
     year: "May 2020 - December 2023",
